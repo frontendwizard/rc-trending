@@ -10,6 +10,6 @@
     },
     "name": "rc-trending",
     "nameSlug": "rc-trending",
-    "classFile": "RcNewsApp.ts",
+    "classFile": "RcTrendingApp.ts",
     "description": "Trending news inside rocket chat"
 }
