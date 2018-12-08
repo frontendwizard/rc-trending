@@ -24,8 +24,8 @@ enum CommandEnum {
 
 export class Trending implements ISlashCommand {
     public command = 'trending';
-    public i18nParamsExample = 'github_trending_params';
-    public i18nDescription = 'github_trending_description';
+    public i18nParamsExample = 'trending_params';
+    public i18nDescription = 'trending_description';
     public providesPreview = false;
 
     constructor(private readonly app: RcNewsApp) {}
